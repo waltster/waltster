@@ -1,10 +1,5 @@
 ### Waltster 
 
-Hello,
-
-My name is Walter Pach and I am a part-time developer. I split my time between university studies, development, and various hobbies. 
-
-Walt.
 
 <!--
 **waltster/waltster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
