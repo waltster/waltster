@@ -1,4 +1,6 @@
 # About Me
+## Current Projects
+* [The Digital Piranesi](https://digitalpiranesi.org)
 
 ## Education
 ### University of South Carolina - May 2023
