@@ -6,6 +6,7 @@ The Digital Piranesi (digitalpiranesi.org) is a continuing project that encompas
 The project involves researching the foundational technologies of digital humanities scholarship and digital content management, developing customized software solutions to implement these technologies into the Digital Piranesi project, and deploying this software and resulting materials for public use. The question posed is how can custom digital content annotation software be combined with existing implementations of digital standards in a way that is capable of adding overlays to existing images of Piranesi’s work and rendering these images in a loss-less quality zoom-capable viewer.
 
 <hr />
+
 ## Education
 ### University of South Carolina - May 2023
 * B.A. English, French
