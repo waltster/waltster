@@ -26,8 +26,3 @@
 * HTTP(s) Protocols
 * x86 Processor Architecture
 * Microsoft Office Suite
-
-## Employment History
-### University of South Carolina, Software Developer & Student Researcher
-Designed and developed custom software for large-scale digital content management, annotation,
-and rendering. Reviewed existing web-related standards for content distribution, annotation, and linking. Planned and presented findings and research to advisors and interested parties. Devised detailed approach strategy for writing new software to integrate existing Resource Description Standard-JSON standards with International Image Interoperability Framework standards. Applied the results of background research with custom software as a cohesive platform for digital content management. Collaborated with team members to write web-based and command- line interfaces as well as project documentation. Deployed software as a digital content management tool for use at the university on existing server architecture.
