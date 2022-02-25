@@ -26,3 +26,7 @@
 * HTTP(s) Protocols
 * x86 Processor Architecture
 * Microsoft Office Suite
+
+## Certifications
+### Federal Communications Commission
+* General Class – Amateur Radio – #0022922504
