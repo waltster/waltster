@@ -1,20 +1,29 @@
-Under construction!
+# About Me
 
-<!--## About Me
+## Education
+### University of South Carolina - Anticipated Graduate May 2023
+* B.A. English, French
+* Minor in Computer Science
+* Relevant Coursework: Algorithmic Design, Discrete Mathematics, G.I.S.
 
-### Active Projects
+### High School - August 2015-May 2019
+* Graduated with highest honors
+* International Baccalaureate Diploma
 
-#### [The Digital Piranesi](https://scalar.usc.edu/works/piranesidigitalproject/index) - UofSC
+## Skills/Abilities
+### Programming Languages
+* C
+* HTML
+* Java
+* JavaScript
+* Markdown
+* Python
 
-### Education
-#### UofSC
-* B.A. English, concentration in computer science (in-progress)
-* B.A. French (in-progress)
+### Skills/Software Familiarity
+* Linux/UNIX Kernel
+* Linux & Ubuntu Operating Systems
+* RESTful API creation
+* HTTP(s) Protocols
+* x86 Processor Architecture
+* Microsoft Office Suite
 
-#### Highschool
-* International Baccalaureate Diploma Recipient
-
-### Publications
-
-"[Columbia horticulturist’s new book ‘Crinum’ explores a lily’s overlooked nature](https://www.postandcourier.com/free-times/arts/columbia-horticulturists-new-book-crinum-explores-a-lily-s-overlooked-nature/article_72da559c-8f52-11ec-8e93-1b3e5048b91a.html)" - Post and Courier - Columbia, SC
--->
