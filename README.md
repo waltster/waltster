@@ -36,7 +36,7 @@ The project involves researching the foundational technologies of digital humani
 
 ## Certifications
 ### Federal Communications Commission
-* General Class – Amateur Radio – #0022922504
+* General Class – Amateur Radio – KK4TKD - #0022922504
 
 ## Publications
 * Pach, Walter. D. (2022). “Columbia horticulturist’s new book ‘Crinum’ explores a lily’s overlooked nature.” Post and Courier, 19.
