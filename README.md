@@ -30,3 +30,7 @@
 ## Certifications
 ### Federal Communications Commission
 * General Class – Amateur Radio – #0022922504
+
+## Publications
+* Pach, Walter. D. (2022). “Columbia horticulturist’s new book ‘Crinum’ explores a lily’s overlooked nature.” Post and Courier, 19.
+* _Pach, Walter. D. (2022).“Imagining Democracy, Punishment, and Infinity: Giovanni Battista Piranesi’s Carceri d’invenzione.”_
