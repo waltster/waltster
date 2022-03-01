@@ -17,6 +17,9 @@ The project involves researching the foundational technologies of digital humani
 * Graduated with highest honors
 * International Baccalaureate Diploma
 
+## Work Experience
+Please contact via [email](mailto:wpach@email.sc.edu) for resumé and work experience.
+
 ## Skills/Abilities
 ### Programming Languages
 * C
