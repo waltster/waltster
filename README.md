@@ -17,9 +17,6 @@ The project involves researching the foundational technologies of digital humani
 * Graduated with highest honors
 * International Baccalaureate Diploma
 
-## Work Experience
-Please contact via [email](mailto:wpach@email.sc.edu) for resumé and work experience.
-
 ## Skills/Abilities
 ### Programming Languages
 * C
@@ -37,9 +34,16 @@ Please contact via [email](mailto:wpach@email.sc.edu) for resumé and work exper
 * x86 Processor Architecture
 * Microsoft Office Suite
 
+## Languages
+* English - Native Speaker
+* French - Advanced working proficiency (4+ years university level study)
+
 ## Certifications
 ### Federal Communications Commission
 * General Class – Amateur Radio – KK4TKD - #0022922504
+
+## Work Experience
+Please contact via [email](mailto:wpach@email.sc.edu) for resumé and work experience.
 
 ## Publications
 * Pach, Walter. D. (2022). “Columbia horticulturist’s new book ‘Crinum’ explores a lily’s overlooked nature.” Post and Courier, 19.
